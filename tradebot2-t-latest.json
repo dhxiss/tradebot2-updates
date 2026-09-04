@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "version": "1.4.2",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.2/TradeBot2_T_1.4.2_setup.exe",
+  "sha256": "F5F7205CCAD4533F7E1FB96569D8C4CFA6C18FB817855768FB6D389A9E299546",
+  "size_bytes": 50920197,
+  "message": "실행 중 30분 자동 확인과 수동 업데이트 확인 버튼을 추가했습니다."
+}

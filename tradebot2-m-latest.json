@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.1",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.1/TradeBot2_M_1.4.1_setup.exe",
-  "sha256": "C7BA64CCF8F5F60B217E2F05E77E9F099F194D9720CE6159D71F38F1CF787987",
-  "size_bytes": 50917068,
-  "message": "PURPLE 약관 동의와 게임 로그인 확인 단계를 추가하고 창 포커스 문제를 수정했습니다."
+  "version": "1.4.2",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.2/TradeBot2_M_1.4.2_setup.exe",
+  "sha256": "F98A229482B8686CAC0FBCE5A18A6804411F10B4FB1F4B255D7E9CBC77D2CED2",
+  "size_bytes": 50917041,
+  "message": "실행 중 30분 자동 확인과 수동 업데이트 확인 버튼을 추가했습니다."
 }
