@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.2",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.2/TradeBot2_M_1.4.2_setup.exe",
-  "sha256": "F98A229482B8686CAC0FBCE5A18A6804411F10B4FB1F4B255D7E9CBC77D2CED2",
-  "size_bytes": 50917041,
-  "message": "실행 중 30분 자동 확인과 수동 업데이트 확인 버튼을 추가했습니다."
+  "version": "1.4.3",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.3/TradeBot2_M_1.4.3_setup.exe",
+  "sha256": "39A9E9ABDAD94B4BFF8C36231A08ADD74D5BE133C9862420214F94B7F25324C7",
+  "size_bytes": 50923776,
+  "message": "PURPLE 게임 화면 준비 후 본창을 다시 확인하도록 자동접속을 수정했습니다."
 }
