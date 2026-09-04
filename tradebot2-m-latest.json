@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "version": "1.4.0",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.0/TradeBot2_M_1.4.0_setup.exe",
+  "sha256": "65428759142BFAF9ADEE03C47EDBD3EC65C89D7BB70B110F1D884CD8492F365B",
+  "size_bytes": 50913637,
+  "message": "PURPLE 게임 실행, 서버 선택, 캐릭터 선택 자동접속 기능을 추가했습니다."
+}
