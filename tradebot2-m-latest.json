@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.20",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.20/TradeBot2_M_1.4.20_setup.exe",
-  "sha256": "B1E8549E6373EC5A663D6BEB97C0CCCA83BA22AAD2C001FC60991B1C9722485F",
-  "size_bytes": 50939586,
-  "message": "자동접속 화면의 불필요한 설명과 버전 안내를 제거하고 장치 상태 문구를 간결하게 정리했습니다. 기존 기능과 설정은 유지됩니다."
+  "version": "1.4.21",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.21/TradeBot2_M_1.4.21_setup.exe",
+  "sha256": "6CBCE0192F0A68A093A3E091575B81378794B1B0AD16A5E7A66F21FFCC2D610E",
+  "size_bytes": 50935536,
+  "message": "상단 업데이트 버튼의 글자 잘림을 수정했습니다. 하단 상태와 버튼을 두 줄로 분리하여 거래 시작·거래 정지·프로필 저장·불러오기가 모두 보이도록 개선했습니다. 기존 기능과 설정은 유지됩니다."
 }
