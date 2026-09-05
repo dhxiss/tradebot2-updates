@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.21",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.21/TradeBot2_M_1.4.21_setup.exe",
-  "sha256": "6CBCE0192F0A68A093A3E091575B81378794B1B0AD16A5E7A66F21FFCC2D610E",
-  "size_bytes": 50935536,
-  "message": "상단 업데이트 버튼의 글자 잘림을 수정했습니다. 하단 상태와 버튼을 두 줄로 분리하여 거래 시작·거래 정지·프로필 저장·불러오기가 모두 보이도록 개선했습니다. 기존 기능과 설정은 유지됩니다."
+  "version": "1.4.22",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.22/TradeBot2_M_1.4.22_setup.exe",
+  "sha256": "2FA941DDF55A4A3CF3AD7B94C84A7C111876F4288C3B4F36F34B02FF8B1E87DF",
+  "size_bytes": 50931644,
+  "message": "선택 이모션 등록 버튼과 이모션 4를 제거했습니다. 등록된 이모션 1~3은 유지됩니다. 업데이트 확인 버튼의 원형 화살표를 제거했습니다."
 }
