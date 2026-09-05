@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.8",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.8/TradeBot2_M_1.4.8_setup.exe",
-  "sha256": "028A3FD04B08A98C49ACB06354CB3AF89880614B7DB30AFD4077ED13C314BA9F",
-  "size_bytes": 50922093,
-  "message": "작은 로그인 OK 글자가 검은 배경 때문에 등록되지 않던 판정을 수정했습니다. 1.4.7에서 저장한 위치는 유지됩니다. 실패했던 OK 위치를 다시 등록해주세요. 저장 중 마우스가 이동하면 완료까지 조작하지 마세요. 단계 제한 60초, 전체 제한 300초를 권장합니다."
+  "version": "1.4.9",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.9/TradeBot2_M_1.4.9_setup.exe",
+  "sha256": "ACCA4B6F21AB7A724252B6D8B91F7C06D8B559908476CDB96807BB6492072A73",
+  "size_bytes": 50919648,
+  "message": "자동접속 클릭 전 40ms 대기를 복원하고 게임창·채팅 탭에 자동접속 전용 로그와 복사 버튼을 추가했습니다. 1.4.7 이후 저장한 위치는 유지됩니다. 실패하면 프로그램을 종료하기 전에 자동접속 로그를 복사해주세요."
 }
