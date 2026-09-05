@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.11",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.11/TradeBot2_M_1.4.11_setup.exe",
-  "sha256": "56ABF836433673A45CEB69AE0562C7115AFFB18E5AF617933ECC2387CDB36EFC",
-  "size_bytes": 50936165,
-  "message": "• 업데이트 안내창을 어두운 블루·둥근 모서리 디자인으로 개선했습니다.\n• 현재/새 버전, 용량, 변경 내용을 한눈에 확인할 수 있습니다.\n• 설치 및 상태 복원 동작은 그대로 유지됩니다.\n새 디자인은 이 버전 설치 후 다음 업데이트 안내부터 적용됩니다."
+  "version": "1.4.12",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.12/TradeBot2_M_1.4.12_setup.exe",
+  "sha256": "15F2A26601F14BDF01D2997275B4A779951C8D9E41DED3AC9C9DB680F0F6D865",
+  "size_bytes": 50933333,
+  "message": "• 바로가기와 EXE 실행 시 관리자 권한을 요청하도록 변경했습니다.\n• Windows 권한 확인 창에서 예를 선택해주세요.\n• 업데이트 후 재실행에도 관리자 권한을 유지합니다.\n자동접속·마나 공유·업데이트 알림 디자인은 그대로입니다."
 }
