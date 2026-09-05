@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.10",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.10/TradeBot2_M_1.4.10_setup.exe",
-  "sha256": "E2F9B8783A1FE7663EA677E0FE7B50088B134B69D770EEDD061EAC3C34D56C89",
-  "size_bytes": 50930000,
-  "message": "자동접속 마지막 캐릭터 선택을 더블클릭으로 변경했습니다. 기존 캐릭터 위치를 그대로 사용하며 OK 버튼 추가 등록은 필요 없습니다. 다른 단계와 실제 접속 확인은 유지됩니다. 실패하면 게임창·채팅 탭의 자동접속 로그를 복사해주세요."
+  "version": "1.4.11",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.11/TradeBot2_M_1.4.11_setup.exe",
+  "sha256": "56ABF836433673A45CEB69AE0562C7115AFFB18E5AF617933ECC2387CDB36EFC",
+  "size_bytes": 50936165,
+  "message": "• 업데이트 안내창을 어두운 블루·둥근 모서리 디자인으로 개선했습니다.\n• 현재/새 버전, 용량, 변경 내용을 한눈에 확인할 수 있습니다.\n• 설치 및 상태 복원 동작은 그대로 유지됩니다.\n새 디자인은 이 버전 설치 후 다음 업데이트 안내부터 적용됩니다."
 }
