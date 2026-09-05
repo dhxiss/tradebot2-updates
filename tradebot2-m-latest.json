@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.7",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.7/TradeBot2_M_1.4.7_setup.exe",
-  "sha256": "3E64F4ED58A15C29BBF5E91D58FE001488EE5FE3D17B1AAE30BDE4CE3A17C88D",
-  "size_bytes": 50922764,
-  "message": "OK·캐릭터 버튼의 마우스 강조로 자동접속이 멈추는 등록 방식을 수정했습니다. 다섯 위치를 다시 등록해주세요. 좌표 확인 후 마우스를 자동으로 치워 이미지를 저장하니 완료까지 조작하지 마세요. 단계 제한 60초, 전체 제한 300초를 권장합니다."
+  "version": "1.4.8",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.8/TradeBot2_M_1.4.8_setup.exe",
+  "sha256": "028A3FD04B08A98C49ACB06354CB3AF89880614B7DB30AFD4077ED13C314BA9F",
+  "size_bytes": 50922093,
+  "message": "작은 로그인 OK 글자가 검은 배경 때문에 등록되지 않던 판정을 수정했습니다. 1.4.7에서 저장한 위치는 유지됩니다. 실패했던 OK 위치를 다시 등록해주세요. 저장 중 마우스가 이동하면 완료까지 조작하지 마세요. 단계 제한 60초, 전체 제한 300초를 권장합니다."
 }
