@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.22",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.22/TradeBot2_M_1.4.22_setup.exe",
-  "sha256": "2FA941DDF55A4A3CF3AD7B94C84A7C111876F4288C3B4F36F34B02FF8B1E87DF",
-  "size_bytes": 50931644,
-  "message": "선택 이모션 등록 버튼과 이모션 4를 제거했습니다. 등록된 이모션 1~3은 유지됩니다. 업데이트 확인 버튼의 원형 화살표를 제거했습니다."
+  "version": "1.4.23",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.23/TradeBot2_M_1.4.23_setup.exe",
+  "sha256": "456A1AC36573528E86A6AE42175AA3854B569997ABB24FBE8285F69335F62FB9",
+  "size_bytes": 50940492,
+  "message": "마나 목록 공통 캐시와 실시간 수신, 중복 조회 억제를 적용했습니다. 생존 판정과 거래 조건은 유지합니다. 실제 트래픽 절감량은 동일 조건 시험으로 확인해주세요."
 }
