@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.12",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.12/TradeBot2_M_1.4.12_setup.exe",
-  "sha256": "15F2A26601F14BDF01D2997275B4A779951C8D9E41DED3AC9C9DB680F0F6D865",
-  "size_bytes": 50933333,
-  "message": "• 바로가기와 EXE 실행 시 관리자 권한을 요청하도록 변경했습니다.\n• Windows 권한 확인 창에서 예를 선택해주세요.\n• 업데이트 후 재실행에도 관리자 권한을 유지합니다.\n자동접속·마나 공유·업데이트 알림 디자인은 그대로입니다."
+  "version": "1.4.13",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.13/TradeBot2_M_1.4.13_setup.exe",
+  "sha256": "566208510CCBE3DE16A52B4AE5387C3089B3FD1C1DBB2FB4FA1022CE4ABB3349",
+  "size_bytes": 50928096,
+  "message": "• 업데이트 후 PURPLE 자동접속으로 게임을 다시 실행합니다.\n• 이전 캐릭터 연결 확인 후 거래·버프 작업을 재개합니다.\n• 이전 게임이 남거나 자동접속에 실패하면 복원 정보를 보존합니다.\nPURPLE 로그인과 자동접속 활성화·다섯 단계 위치/이미지 설정이 필요합니다."
 }
