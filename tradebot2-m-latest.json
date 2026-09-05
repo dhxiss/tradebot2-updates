@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.13",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.13/TradeBot2_M_1.4.13_setup.exe",
-  "sha256": "566208510CCBE3DE16A52B4AE5387C3089B3FD1C1DBB2FB4FA1022CE4ABB3349",
-  "size_bytes": 50928096,
-  "message": "• 업데이트 후 PURPLE 자동접속으로 게임을 다시 실행합니다.\n• 이전 캐릭터 연결 확인 후 거래·버프 작업을 재개합니다.\n• 이전 게임이 남거나 자동접속에 실패하면 복원 정보를 보존합니다.\nPURPLE 로그인과 자동접속 활성화·다섯 단계 위치/이미지 설정이 필요합니다."
+  "version": "1.4.14",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.14/TradeBot2_M_1.4.14_setup.exe",
+  "sha256": "5544D61186CB67BEE5E695CEFC98FCC6955A0B398E430376CD87A000F4D45BF0",
+  "size_bytes": 50922920,
+  "message": "• 방수별 + 버튼으로 여러 가격을 등록하고 ×로 삭제합니다.\n• 칼질교환 옵션: 인접 공격자 방향으로 회전 후 교환을 요청합니다.\n• 이모션 1~4 선택과 동작 등록을 추가했습니다. 1은 기본, 2~4는 게임에서 직접 등록해주세요.\n중복 금액은 거절하며 서버 거래 완료 확인 후 버프를 지급합니다. 실제 게임 테스트가 필요합니다."
 }
