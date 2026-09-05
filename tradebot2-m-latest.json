@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.3",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.3/TradeBot2_M_1.4.3_setup.exe",
-  "sha256": "39A9E9ABDAD94B4BFF8C36231A08ADD74D5BE133C9862420214F94B7F25324C7",
-  "size_bytes": 50923776,
-  "message": "PURPLE 게임 화면 준비 후 본창을 다시 확인하도록 자동접속을 수정했습니다."
+  "version": "1.4.6",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.6/TradeBot2_M_1.4.6_setup.exe",
+  "sha256": "F7B0268E012A7D222904ACF32C4367BC9C8F531F3696EA0FBB4DD5CA6FC607D9",
+  "size_bytes": 50928986,
+  "message": "자동접속을 화면 확인·전환 검증 방식으로 개선했습니다. 자동접속 사용 전 다섯 위치를 다시 등록해주세요. 단계 제한 60초, 전체 제한 300초를 권장합니다."
 }
