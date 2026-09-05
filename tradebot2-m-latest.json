@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.17",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.17/TradeBot2_M_1.4.17_setup.exe",
-  "sha256": "C683C98B49BADD41D4637B797E5A91D241D79EEDEBCA52B423267E793FB74B53",
-  "size_bytes": 50933433,
-  "message": "• 업데이트 자동 감지 시 팝업을 띄우지 않고 상단 버튼을 ‘업데이트 있음’으로 표시합니다.\n• 감지된 버튼은 은은하게 반짝이며, 직접 눌렀을 때만 업데이트 승인 창을 엽니다.\n• 감지 전 ‘업데이트 확인’ 버튼의 수동 확인 기능은 유지됩니다.\n• 자동접속 클릭 누름 시간을 드라이버·Windows 입력 모두 10ms로 변경했습니다.\n새 알림 방식은 설치 이후부터 적용됩니다. 약관 클릭은 원격 PC에서 다시 확인해주세요."
+  "version": "1.4.18",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.18/TradeBot2_M_1.4.18_setup.exe",
+  "sha256": "8449773F20AC48CA70F3D657F33F41F6B421D77DA77EB5F3394B75F281C24823",
+  "size_bytes": 50942766,
+  "message": "• 자동접속 클릭 입력 방식을 자동·Windows 기본·드라이버로 나누어 선택할 수 있습니다.\n• 클릭 좌표·입력 방식·장치·전송 결과를 자동접속 로그에 표시합니다.\n• 10ms 누름, 기존 위치·이미지와 수동 업데이트 알림은 유지합니다.\n약관 클릭 문제 시험: 실패한 게임 창을 닫고 게임창·채팅에서 Windows 기본을 선택한 뒤 자동접속을 실행해주세요. 실패 시 아래 자동접속 로그를 복사해주세요. 실제 게임 반응은 원격 PC에서 확인해야 합니다."
 }
