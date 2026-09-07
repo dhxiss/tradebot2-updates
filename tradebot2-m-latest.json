@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.24",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.24/TradeBot2_M_1.4.24_setup.exe",
-  "sha256": "C0D7B0F01B617EA18138D87DCCAD67F4D64D3668F7A92B33A8E4303B84FFB4C9",
-  "size_bytes": 50950690,
-  "message": "방향·감지 탭에 칼질 자동 블랙리스트를 추가했습니다. 기본 꺼짐·30대이며 같은 상대의 공격 간격이 15초를 넘으면 횟수가 초기화됩니다. 등록한 이름은 같은 계정에 공유합니다."
+  "version": "1.4.27",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.27/TradeBot2_M_1.4.27_setup.exe",
+  "sha256": "2A3DC729498D0C5230501BCD5FB6B1A78A6AF6BE0F2FF0E1CA6353DAA58A9CB8",
+  "size_bytes": 50952932,
+  "message": "호객 입력 안전 처리를 개선했습니다. 입력이 자동 중단되면 안전한 상태에서 Esc로 채팅을 정리한 뒤 호객을 재개합니다. 수동 OFF·거래 정지·연결 종료 시에는 자동 재개하지 않습니다. 입력 장치 오류는 직접 확인이 필요합니다."
 }
