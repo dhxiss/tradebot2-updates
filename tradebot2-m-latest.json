@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.27",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.27/TradeBot2_M_1.4.27_setup.exe",
-  "sha256": "2A3DC729498D0C5230501BCD5FB6B1A78A6AF6BE0F2FF0E1CA6353DAA58A9CB8",
-  "size_bytes": 50952932,
-  "message": "호객 입력 안전 처리를 개선했습니다. 입력이 자동 중단되면 안전한 상태에서 Esc로 채팅을 정리한 뒤 호객을 재개합니다. 수동 OFF·거래 정지·연결 종료 시에는 자동 재개하지 않습니다. 입력 장치 오류는 직접 확인이 필요합니다."
+  "version": "1.4.28",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.28/TradeBot2_M_1.4.28_setup.exe",
+  "sha256": "AFADDD9D4DAF967C2B866B47D36D2C951477EF0DA1BD9776F9E3A4F742F4CAAD",
+  "size_bytes": 50946900,
+  "message": "코드 안정화"
 }
