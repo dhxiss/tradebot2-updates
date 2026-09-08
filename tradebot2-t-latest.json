@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.3",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.3/TradeBot2_T_1.4.3_setup.exe",
-  "sha256": "8B20458344F734745650A2623B27DED43B62154E192F5F00A82011F76E17044D",
-  "size_bytes": 50918868,
-  "message": "PURPLE 게임 화면 준비 후 본창을 다시 확인하도록 자동접속을 수정했습니다."
+  "version": "1.4.27",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.27/TradeBot2_T_1.4.27_setup.exe",
+  "sha256": "5C4218BBB25909540E868265FF598523FCABFE4D1AE482D081F5D45B8AA31104",
+  "size_bytes": 50943166,
+  "message": "호객 입력 안전 처리를 개선했습니다. 입력이 자동 중단되면 안전한 상태에서 Esc로 채팅을 정리한 뒤 호객을 재개합니다. 수동 OFF·거래 정지·연결 종료 시에는 자동 재개하지 않습니다. 입력 장치 오류는 직접 확인이 필요합니다."
 }
