@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.39",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.39-r2/TradeBot2_T_1.4.39_setup.exe",
-  "sha256": "E312964C25A836ED1961E79430714CEEE2ADA6FA8B617D49D349AC22D7F1ED68",
-  "size_bytes": 51179583,
+  "version": "1.4.40",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.40/TradeBot2_T_1.4.40_setup.exe",
+  "sha256": "C094D698DAA457A35EF059E833F6E1EDBF5FAC50C2F0B2441A4782E30A161503",
+  "size_bytes": 51173763,
   "message": "자동업데이트 최적화 및 코드 안정화"
 }
