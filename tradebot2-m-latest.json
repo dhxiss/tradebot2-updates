@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.43",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.43/TradeBot2_M_1.4.43_setup.exe",
-  "sha256": "C278ABA1F25CFD60FD20F8B80B812A417959C8CF120CFA05F5DC3C11F4BB3D2A",
-  "size_bytes": 122885140,
-  "message": "버프거래 카드별 접기·펼침 기능 추가"
+  "version": "1.4.44",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.44/TradeBot2_M_1.4.44_setup.exe",
+  "sha256": "21A82490A27184A4776550910A0DC5889D08E33986662A121AA8498FD84099AE",
+  "size_bytes": 122901012,
+  "message": "총 방수 카드를 헤이스트 가격표 위로 이동하고 카드 세로 여백 축소"
 }
