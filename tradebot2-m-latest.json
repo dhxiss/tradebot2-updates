@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.41",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.41/TradeBot2_M_1.4.41_setup.exe",
-  "sha256": "0917007625D5B11A881E0A2A1F5924E1FFBEA69D9FD22E99EBFC2C40DE5C0061",
-  "size_bytes": 122886676,
-  "message": "자동업데이트 최적화 및 코드 안정화"
+  "version": "1.4.42",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.42/TradeBot2_M_1.4.42_setup.exe",
+  "sha256": "DDF79E904FE06BD124CBEF29F73E7F832F1787143256954751A4ED247D29436E",
+  "size_bytes": 122885140,
+  "message": "거래 수입 기록 및 칼질 버프 권한 제어 추가. 칼질교환은 관리자 권한 허용 후 사용할 수 있습니다."
 }
