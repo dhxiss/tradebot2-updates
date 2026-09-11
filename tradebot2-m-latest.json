@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.42",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.42/TradeBot2_M_1.4.42_setup.exe",
-  "sha256": "DDF79E904FE06BD124CBEF29F73E7F832F1787143256954751A4ED247D29436E",
+  "version": "1.4.43",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.43/TradeBot2_M_1.4.43_setup.exe",
+  "sha256": "C278ABA1F25CFD60FD20F8B80B812A417959C8CF120CFA05F5DC3C11F4BB3D2A",
   "size_bytes": 122885140,
-  "message": "거래 수입 기록 및 칼질 버프 권한 제어 추가. 칼질교환은 관리자 권한 허용 후 사용할 수 있습니다."
+  "message": "버프거래 카드별 접기·펼침 기능 추가"
 }
