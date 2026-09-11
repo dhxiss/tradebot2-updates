@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "version": "1.0.13",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.13/PartyBuff_M_1.0.13_setup.exe",
-  "sha256": "56B1DB5CA443C4DD43F786AC66A28264120DCDE12CB89C628307A215589248DF",
-  "size_bytes": 52318362,
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.13-r2/PartyBuff_M_1.0.13_setup.exe",
+  "sha256": "AD27448470A76BF27059E1DE756AD40FB70D247D6EE88CF4D2C2ACECB9E5BB29",
+  "size_bytes": 52318438,
   "message": "자동업데이트 최적화 및 코드 안정화"
 }
