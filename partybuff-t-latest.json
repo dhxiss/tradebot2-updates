@@ -1,3 +1,8 @@
 {
-  "enabled": false
+  "enabled": true,
+  "version": "1.0.12",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.12/PartyBuff_T_1.0.12_setup.exe",
+  "sha256": "E1EF6A36CCF7F85AA6A400658D8E7EC04BF48FB8331C2720ECBDB2DC9E835890",
+  "size_bytes": 52320590,
+  "message": "자동업데이트 최적화 및 코드 안정화"
 }
