@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.44",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.44/TradeBot2_T_1.4.44_setup.exe",
-  "sha256": "75AE1E4D89972DBADC342C9BA4D32471AB880EE7444573FBEC1C0F2171F74ACC",
-  "size_bytes": 122891796,
-  "message": "총 방수 카드를 헤이스트 가격표 위로 이동하고 카드 세로 여백 축소"
+  "version": "1.4.45",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.45/TradeBot2_T_1.4.45_setup.exe",
+  "sha256": "2FB7AEE302F8DC377A86DB2BFA270BFBBC5EE6980E31CCAF7E248BFCACB3209F",
+  "size_bytes": 122896916,
+  "message": "디자인 개편 및 총 방수·스킬봇 카드 통합"
 }
