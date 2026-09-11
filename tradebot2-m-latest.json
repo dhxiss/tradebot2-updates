@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.45",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.45/TradeBot2_M_1.4.45_setup.exe",
-  "sha256": "6857A3BA26D0ABDDB85BD20B2ECEBE51A0F29E6A11015FDB7BF21F171EA10E30",
-  "size_bytes": 122895380,
-  "message": "디자인 개편 및 총 방수·스킬봇 카드 통합"
+  "version": "1.4.47",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.47/TradeBot2_M_1.4.47_setup.exe",
+  "sha256": "782FCC600E636C2D617D3FBB7B4F9ABD581AFE6E87B7601D0C59458C1CD76689",
+  "size_bytes": 122895892,
+  "message": "자동업데이트 테스트용 버전"
 }
