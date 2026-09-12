@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.47",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.47/TradeBot2_M_1.4.47_setup.exe",
-  "sha256": "782FCC600E636C2D617D3FBB7B4F9ABD581AFE6E87B7601D0C59458C1CD76689",
-  "size_bytes": 122895892,
-  "message": "자동업데이트 테스트용 버전"
+  "version": "1.4.54",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.54/TradeBot2_M_1.4.54_setup.exe",
+  "sha256": "A69DC9BFE863071E3AC5E223D2A8269CBEB59BE3CED2D03BCB14539AB1182DDF",
+  "size_bytes": 122904084,
+  "message": "사망 후 자리 복귀 및 두루마리 목적지 수집 테스트 기능 추가"
 }
