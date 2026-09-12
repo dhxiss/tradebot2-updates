@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.63",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.63/TradeBot2_M_1.4.63_setup.exe",
-  "sha256": "39276E81F69D43F7A67F172555BAC09124B7B5CF08D1ACBADC255541B2C95407",
-  "size_bytes": 122904596,
-  "message": "M/T/S 버전 분리 · 기존 기능 유지"
+  "version": "1.4.64",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.64/TradeBot2_M_1.4.64_setup.exe",
+  "sha256": "45603554B9D26684DD27D60CA4769212E00319B8BEE6F32E03A58C5779080BD2",
+  "size_bytes": 122911764,
+  "message": "자동부활 방식 선택 · 진단 기록 추가"
 }
