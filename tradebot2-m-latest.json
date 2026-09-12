@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.76",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.76/TradeBot2_M_1.4.76_setup.exe",
-  "sha256": "2AAF7993854636EFE3569187236633C51D9BA28EA0A7953E9BFB66F8F0403936",
-  "size_bytes": 122930196,
-  "message": "자동부활 Restart 클릭 유지 시간 150ms 적용"
+  "version": "1.4.77",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.77/TradeBot2_M_1.4.77_setup.exe",
+  "sha256": "703A2346352A1A2E3F0BE64AF71B0B53DAAD408CC4268348E14477CCB81A8E4D",
+  "size_bytes": 122914324,
+  "message": "자동부활 입력 진단 보강"
 }
