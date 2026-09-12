@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.77",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.77/TradeBot2_M_1.4.77_setup.exe",
-  "sha256": "703A2346352A1A2E3F0BE64AF71B0B53DAAD408CC4268348E14477CCB81A8E4D",
-  "size_bytes": 122914324,
-  "message": "자동부활 입력 진단 보강"
+  "version": "1.4.78",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.78/TradeBot2_M_1.4.78_setup.exe",
+  "sha256": "866C907BFC765DCF9B6769716ACD80870E54058DEF8D44E8C756E2EC1137B554",
+  "size_bytes": 122926100,
+  "message": "자동부활 진단 버튼 상태 조회 제거"
 }
