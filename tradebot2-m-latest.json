@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.62",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.62/TradeBot2_M_1.4.62_setup.exe",
-  "sha256": "0DF58881C38B4502ABE6DEAC506ED4848C303066E97FDED5FCC280BE55F385DE",
-  "size_bytes": 122906644,
-  "message": "카드 접힘 상태 프로필 저장 · 자동 복귀 화면 정리"
+  "version": "1.4.63",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.63/TradeBot2_M_1.4.63_setup.exe",
+  "sha256": "39276E81F69D43F7A67F172555BAC09124B7B5CF08D1ACBADC255541B2C95407",
+  "size_bytes": 122904596,
+  "message": "M/T/S 버전 분리 · 기존 기능 유지"
 }
