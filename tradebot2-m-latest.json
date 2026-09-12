@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.75",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.75/TradeBot2_M_1.4.75_setup.exe",
-  "sha256": "2278CB632782CC5F23E16D42D3B881CE8F110BAE5B2D773FE52F89C4D3BA8AF1",
-  "size_bytes": 122919956,
-  "message": "Restart 좌표 등록 간소화 및 이동 후 300ms 대기 적용"
+  "version": "1.4.76",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.76/TradeBot2_M_1.4.76_setup.exe",
+  "sha256": "2AAF7993854636EFE3569187236633C51D9BA28EA0A7953E9BFB66F8F0403936",
+  "size_bytes": 122930196,
+  "message": "자동부활 Restart 클릭 유지 시간 150ms 적용"
 }
