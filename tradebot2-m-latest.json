@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.71",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.71/TradeBot2_M_1.4.71_setup.exe",
-  "sha256": "DCA65A8833FA4AE8E3ADA6B1860327BD4198B8222E67E3E54A1DB41531A55E99",
-  "size_bytes": 122917908,
-  "message": "자동복귀·수동복귀 비활성 및 최소화 상태 지원"
+  "version": "1.4.72",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.72/TradeBot2_M_1.4.72_setup.exe",
+  "sha256": "A9EE1CEA21E7142E91970B8B22847228C6B533446CF02006AFDDE7BD533A1986",
+  "size_bytes": 122925076,
+  "message": "두루마리 없음·목적지 미설정 시 부활 후 도보 복귀 지원"
 }
