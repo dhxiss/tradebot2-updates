@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.57",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.57/TradeBot2_M_1.4.57_setup.exe",
-  "sha256": "1B3BFE5D2D04B978D99C4E86243E10DF66996CE9655E21CF09F49EE1E1A60D36",
-  "size_bytes": 122904596,
-  "message": "두루마리 목적지 66개 프리셋 및 드롭다운 목적지 설정 추가"
+  "version": "1.4.58",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.58/TradeBot2_M_1.4.58_setup.exe",
+  "sha256": "8D7B087A45FE4BF913AA122EC8D818C79249CDB23E1184E0C89A50F4B3158F2A",
+  "size_bytes": 122911764,
+  "message": "자동부활 Restart 버튼 클릭 방식 적용"
 }
