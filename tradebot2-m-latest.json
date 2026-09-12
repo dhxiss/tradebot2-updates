@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.81",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.81/TradeBot2_M_1.4.81_setup.exe",
-  "sha256": "659CC648EC2058AD5EFACA851CBEF5AAD985926C77C0A626BC723B051FD6F754",
-  "size_bytes": 122929172,
-  "message": "체력 대피·복귀 지역 개별 설정 및 물약 사용 기능 적용"
+  "version": "1.4.82",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.82/TradeBot2_M_1.4.82_setup.exe",
+  "sha256": "82A28673ADB4B9D25C0F2E5C2235A780247B06646D67FF0AF8B29BC3C9BAF5D2",
+  "size_bytes": 122930196,
+  "message": "복귀 후 재대피 대기시간 1초로 단축"
 }
