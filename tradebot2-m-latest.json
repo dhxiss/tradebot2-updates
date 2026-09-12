@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.60",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.60/TradeBot2_M_1.4.60_setup.exe",
-  "sha256": "69D8D998345E3FFD399B7E6E74633825777074147137181792D0817702AD57D8",
-  "size_bytes": 122913300,
-  "message": "프로필 저장 및 설정 자동복원 개선 · 자리 복귀 장애물 우회 보완"
+  "version": "1.4.61",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.61/TradeBot2_M_1.4.61_setup.exe",
+  "sha256": "0C847BDAF13EB2D1F6A2E0760FC59A9547013104113065F6CFCCF7762B291F4F",
+  "size_bytes": 122914324,
+  "message": "같은 맵 재갱신 및 좌표 보정 시 자리 복귀 중단 문제 수정"
 }
