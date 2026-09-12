@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.69",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.69/TradeBot2_M_1.4.69_setup.exe",
-  "sha256": "F6C7E14D1185DA4680936DFA92820F5406C6EF08970BEDF31FE5F022A4014CF5",
-  "size_bytes": 122920980,
-  "message": "자동부활 창 메시지 방식 시험 및 진단 추가"
+  "version": "1.4.70",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.70/TradeBot2_M_1.4.70_setup.exe",
+  "sha256": "1FFBE5C7CB54F7C2816A55142AFB5D9427E50D989E74586202665A4E652FB99E",
+  "size_bytes": 122910740,
+  "message": "창 메시지 자동부활 최소화 상태 시험 및 좌표 처리 보완"
 }
