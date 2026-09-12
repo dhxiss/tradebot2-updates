@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.61",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.61/TradeBot2_M_1.4.61_setup.exe",
-  "sha256": "0C847BDAF13EB2D1F6A2E0760FC59A9547013104113065F6CFCCF7762B291F4F",
-  "size_bytes": 122914324,
-  "message": "같은 맵 재갱신 및 좌표 보정 시 자리 복귀 중단 문제 수정"
+  "version": "1.4.62",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.62/TradeBot2_M_1.4.62_setup.exe",
+  "sha256": "0DF58881C38B4502ABE6DEAC506ED4848C303066E97FDED5FCC280BE55F385DE",
+  "size_bytes": 122906644,
+  "message": "카드 접힘 상태 프로필 저장 · 자동 복귀 화면 정리"
 }
