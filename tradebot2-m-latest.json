@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.55",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.55/TradeBot2_M_1.4.55_setup.exe",
-  "sha256": "E941CD564231A044C4F7BD3A2A57E226DFCF56CC2D4AA9AC4993E49F981103E4",
-  "size_bytes": 122901524,
-  "message": "테스트 화면 안내 문구 정리 및 사용법 간소화"
+  "version": "1.4.56",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.56/TradeBot2_M_1.4.56_setup.exe",
+  "sha256": "23E1A9123216530A3873FC7AA3BF18AC2C3A9221F76D2A8C691891CB08289765",
+  "size_bytes": 122904084,
+  "message": "두루마리 수집 대기 5초로 변경 및 마지막 번호까지 연속 진행"
 }
