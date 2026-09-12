@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.72",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.72/TradeBot2_M_1.4.72_setup.exe",
-  "sha256": "A9EE1CEA21E7142E91970B8B22847228C6B533446CF02006AFDDE7BD533A1986",
-  "size_bytes": 122925076,
-  "message": "두루마리 없음·목적지 미설정 시 부활 후 도보 복귀 지원"
+  "version": "1.4.74",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.74/TradeBot2_M_1.4.74_setup.exe",
+  "sha256": "A52AFAA7003B012B162D3769F597E4D9F9F29B7D5279E4C0337D051EE9866A75",
+  "size_bytes": 122924564,
+  "message": "자동부활 창 메시지 방식 통일 및 서버 누적 수입 유지 개선"
 }
