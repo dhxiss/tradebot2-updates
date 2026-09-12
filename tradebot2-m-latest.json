@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.65",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.65/TradeBot2_M_1.4.65_setup.exe",
-  "sha256": "3EEB0EE9286E76BDFF812D457609C7C84E7A1E68CC0FC03B5E7B453A07BBB575",
-  "size_bytes": 122916372,
-  "message": "자동부활 진단 기록 보완"
+  "version": "1.4.66",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.66/TradeBot2_M_1.4.66_setup.exe",
+  "sha256": "C60A8A5176F753DEC01CBFFD5A3E4D8466AA3FEA50EB298767E9CE81FA3FD239",
+  "size_bytes": 122923540,
+  "message": "자동부활 패킷 방식 시험 적용 · 진단 기록 보완"
 }
