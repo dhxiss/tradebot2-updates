@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.79",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.79/TradeBot2_M_1.4.79_setup.exe",
-  "sha256": "5502D093BC3A25F51A851D12606C1A00C53945DF4BA9D0C34F4D8CFB3F18D49B",
-  "size_bytes": 122915860,
-  "message": "자동부활 클릭 캡처 관찰 대기 적용"
+  "version": "1.4.81",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.81/TradeBot2_M_1.4.81_setup.exe",
+  "sha256": "659CC648EC2058AD5EFACA851CBEF5AAD985926C77C0A626BC723B051FD6F754",
+  "size_bytes": 122929172,
+  "message": "체력 대피·복귀 지역 개별 설정 및 물약 사용 기능 적용"
 }
