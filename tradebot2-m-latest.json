@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.74",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.74/TradeBot2_M_1.4.74_setup.exe",
-  "sha256": "A52AFAA7003B012B162D3769F597E4D9F9F29B7D5279E4C0337D051EE9866A75",
-  "size_bytes": 122924564,
-  "message": "자동부활 창 메시지 방식 통일 및 서버 누적 수입 유지 개선"
+  "version": "1.4.75",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.75/TradeBot2_M_1.4.75_setup.exe",
+  "sha256": "2278CB632782CC5F23E16D42D3B881CE8F110BAE5B2D773FE52F89C4D3BA8AF1",
+  "size_bytes": 122919956,
+  "message": "Restart 좌표 등록 간소화 및 이동 후 300ms 대기 적용"
 }
