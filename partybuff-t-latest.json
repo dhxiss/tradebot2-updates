@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.0.16",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.16/PartyBuff_T_1.0.16_setup.exe",
-  "sha256": "87D3D290DE8F7DC2305F1AB402FA34727DD260C525E55B06A24BD6E608B67B2C",
-  "size_bytes": 124060180,
-  "message": "파티버프 최소 연동 캐릭터 수를 4명에서 3명으로 변경"
+  "version": "1.0.17",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.17/PartyBuff_T_1.0.17_setup.exe",
+  "sha256": "51B5E4A7836A894BADF0891FC08C7E36F0F287159BF4ECC6DED9CFC86696579B",
+  "size_bytes": 124073492,
+  "message": "글루디오 서버 추가"
 }
