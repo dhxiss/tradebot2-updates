@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.0.17",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.17/PartyBuff_M_1.0.17_setup.exe",
-  "sha256": "84D512FF9BB138FB44B9BA08524F5F47B96B86CE30D1E17604B76ACD1A42AAB8",
-  "size_bytes": 124059668,
-  "message": "글루디오 서버 추가"
+  "version": "1.0.18",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.18/PartyBuff_M_1.0.18_setup.exe",
+  "sha256": "0988434FC8F7849AB604C40281787DF2AB0907E86D1AAE60786E4AC572466E16",
+  "size_bytes": 124069908,
+  "message": "서버 수익 집계 및 관제 보고 지원"
 }
