@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "version": "1.4.87",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.87/TradeBot2_S_1.4.87_setup.exe",
-  "sha256": "9F616A50C75606E1AD8135604EBD6F296380BCAF150C59EEF95367CBB051557F",
-  "size_bytes": 122942484,
-  "message": "S 세션 개선 · 실제 게임 캐릭터 기준 동시접속 · 대기·중복 보고 정리"
+  "enabled": true,
+  "version": "1.4.88",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.88/TradeBot2_S_1.4.88_setup.exe",
+  "sha256": "64b8a1d24032a12b7caff036168b4db224db8a8d824276f65f43973ff8b52389",
+  "size_bytes": 122932756,
+  "message": "게임 연결 중단 긴급 복구. 기존 로그인 수 제한으로 복원했습니다."
 }
