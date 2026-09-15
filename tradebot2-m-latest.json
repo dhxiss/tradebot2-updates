@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.83",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.83/TradeBot2_M_1.4.83_setup.exe",
-  "sha256": "95471E786B938B2CE4DB2A6E2184E275D40454C5BB8828AC39B7A3497D1FEB4F",
-  "size_bytes": 122930196,
-  "message": "대피 물약 선택 방식 개선 및 복귀 체력 설정"
+  "version": "1.4.88",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.88/TradeBot2_M_1.4.88_setup.exe",
+  "sha256": "488B7D9334BDC6ECFED8DE80DD2B424D6A7250C3B1112E8F2C41226BF6B5A8B3",
+  "size_bytes": 122929684,
+  "message": "게임 서버 자동 감지 및 시작·프로필 변경 시 게임 창 갱신"
 }
