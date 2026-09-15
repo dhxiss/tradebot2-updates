@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.63",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.63/TradeBot2_S_1.4.63_setup.exe",
-  "sha256": "5A8C6458191E15FBC26C36000DFAF884D0156D6AEF24F08986FF331A60A031C8",
-  "size_bytes": 122906644,
-  "message": "S 버전 추가 · 2번 서버 · 자동부활·자리 복귀·두루마리 기능 지원"
+  "version": "1.4.87",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.87/TradeBot2_S_1.4.87_setup.exe",
+  "sha256": "9F616A50C75606E1AD8135604EBD6F296380BCAF150C59EEF95367CBB051557F",
+  "size_bytes": 122942484,
+  "message": "S 세션 개선 · 실제 게임 캐릭터 기준 동시접속 · 대기·중복 보고 정리"
 }
