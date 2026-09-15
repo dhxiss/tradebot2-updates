@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.73",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.73/TradeBot2_T_1.4.73_setup.exe",
-  "sha256": "9CDC6E39902C494A73C30C231D78356328EAF1E14362AC9C9B5C40D22F4150C6",
-  "size_bytes": 122899988,
-  "message": "코드 안전화"
+  "version": "1.4.76",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.76/TradeBot2_T_1.4.76_setup.exe",
+  "sha256": "EFCF0187FC04C3609C3AB3E1BCDF198BA9C13E3ED91EEFA01E6520B6318E7918",
+  "size_bytes": 122906644,
+  "message": "T 세션 개선 · 실제 게임 동시접속 한도 · 게임 튕김 시 거래봇 OFF · F1 창 숨김 제거"
 }
