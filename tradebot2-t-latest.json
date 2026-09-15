@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "version": "1.4.76",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.76/TradeBot2_T_1.4.76_setup.exe",
-  "sha256": "EFCF0187FC04C3609C3AB3E1BCDF198BA9C13E3ED91EEFA01E6520B6318E7918",
-  "size_bytes": 122906644,
-  "message": "T 세션 개선 · 실제 게임 동시접속 한도 · 게임 튕김 시 거래봇 OFF · F1 창 숨김 제거"
+  "enabled": true,
+  "version": "1.4.77",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.77/TradeBot2_T_1.4.77_setup.exe",
+  "sha256": "77bfdb482c6250f4559a4be0baec9b4836aca720924081cfd4c6b990f82304cb",
+  "size_bytes": 122895892,
+  "message": "게임 연결 중단 긴급 복구. 기존 로그인 수 제한으로 복원했습니다."
 }
