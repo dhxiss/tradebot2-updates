@@ -4,5 +4,5 @@
   "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.82/TradeBot2_T_1.4.82_setup.exe",
   "sha256": "3a4ef6b21a0a1d6209c20cef4cdbd1150e2debcf83750a85613617abc3ddfca3",
   "size_bytes": 122903572,
-  "message": "수익 저장 응답 처리 오류를 수정했습니다. 기존 접속 한도·아덴 서버·자동연결을 유지합니다."
+  "message": "코드 안정화"
 }
