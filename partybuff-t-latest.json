@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.0.18",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.18/PartyBuff_T_1.0.18_setup.exe",
-  "sha256": "C50470FF7E4BC0CA1CAF3EC5958893EEF7ADF28120E97EA1091F3D1FEFA5F48E",
-  "size_bytes": 124062228,
-  "message": "서버 수익 집계 및 관제 보고 지원"
+  "version": "1.0.19",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-v1.0.19/PartyBuff_T_1.0.19_setup.exe",
+  "sha256": "b104a753614fab8b03216e6313a735c2d619aeac6d0c16faca38cf9564ab56d5",
+  "size_bytes": 124069396,
+  "message": "초대 거절 후 재초대 및 파티장 대기시간 개선"
 }
