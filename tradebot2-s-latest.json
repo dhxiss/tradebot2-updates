@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.88",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.88/TradeBot2_S_1.4.88_setup.exe",
-  "sha256": "64b8a1d24032a12b7caff036168b4db224db8a8d824276f65f43973ff8b52389",
-  "size_bytes": 122932756,
-  "message": "게임 연결 중단 긴급 복구. 기존 로그인 수 제한으로 복원했습니다."
+  "version": "1.4.91",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.91/TradeBot2_S_1.4.91_setup.exe",
+  "sha256": "a3d80bf23a5cad266acfa9092dfaaf16809fa43a94e33e3182b57841efe068cf",
+  "size_bytes": 122941460,
+  "message": "아덴 서버 지원 및 게임 서버 자동연결 추가. 기존 로그인 수 기준 접속 한도를 유지합니다."
 }
