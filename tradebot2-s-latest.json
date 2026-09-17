@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.92",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.92/TradeBot2_S_1.4.92_setup.exe",
-  "sha256": "99ac304dac76790bd2f7df836eedf578d8a30ab8a6ab55eea62f626383589256",
-  "size_bytes": 122932756,
-  "message": "코드 안정화"
+  "version": "1.4.96",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.96/TradeBot2_S_1.4.96_setup.exe",
+  "sha256": "043e18136436bc298b1485f2fdb3b31aa51e96223946e484f076855793c1ef28",
+  "size_bytes": 122950676,
+  "message": "디스코드·텔레그램 알림 추가 및 컴퓨터 이름 표시"
 }
