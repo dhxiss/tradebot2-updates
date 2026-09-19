@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.88",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.88/TradeBot2_M_1.4.88_setup.exe",
-  "sha256": "488B7D9334BDC6ECFED8DE80DD2B424D6A7250C3B1112E8F2C41226BF6B5A8B3",
-  "size_bytes": 122929684,
-  "message": "게임 서버 자동 감지 및 시작·프로필 변경 시 게임 창 갱신"
+  "version": "1.4.97",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.97/TradeBot2_M_1.4.97_setup.exe",
+  "sha256": "50dcb3832c67706fe11d41ef57c7b629ea4a46c0cd0c2edf56208aebdb8d6287",
+  "size_bytes": 122952212,
+  "message": "코드 안정화"
 }
