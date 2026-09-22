@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "version": "1.4.90",
   "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.90/TradeBot2_T_1.4.90_setup.exe",
   "sha256": "29fa71286b2a743506af2964be7a31eef97b44457f9030035ebceeb0c4c51988",
