@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.97",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.97/TradeBot2_M_1.4.97_setup.exe",
-  "sha256": "50dcb3832c67706fe11d41ef57c7b629ea4a46c0cd0c2edf56208aebdb8d6287",
-  "size_bytes": 122952212,
-  "message": "코드 안정화"
+  "version": "1.4.98",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.98/TradeBot2_M_1.4.98_setup.exe",
+  "sha256": "e8ba4cb8dd33b149cfd3161c92f3711cf577efd3397949963b4e04f30c4f2066",
+  "size_bytes": 122961428,
+  "message": "채팅매크로 드라이버 설치문제 수정"
 }
