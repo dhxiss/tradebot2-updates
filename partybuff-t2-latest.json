@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.1.9",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v1.1.9/PartyBuff_T2_1.1.9_setup.exe.enc",
-  "sha256": "df5a95bfd604b0202013183a00c35abba76c195ea1ef82e1c1545589da5119be",
-  "size_bytes": 52446684,
-  "message": "HP 회복 아이템 자동 사용 및 거래 취소 대기 복구 개선"
+  "version": "1.1.10",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v1.1.10/PartyBuff_T2_1.1.10_setup.exe.enc",
+  "sha256": "056db8f96266d786c9ca594fff69db7d1579df3fede311919bf7b5e5635d7c7e",
+  "size_bytes": 52387839,
+  "message": "1.0.26 기준 안정화 롤백 (T2 로그인·암호화 업데이트 유지)"
 }
