@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.1.10",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v1.1.10/PartyBuff_T2_1.1.10_setup.exe.enc",
-  "sha256": "056db8f96266d786c9ca594fff69db7d1579df3fede311919bf7b5e5635d7c7e",
-  "size_bytes": 52387839,
-  "message": "1.0.26 기준 안정화 롤백 (T2 로그인·암호화 업데이트 유지)"
+  "version": "1.1.11",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v1.1.11/PartyBuff_T2_1.1.11_setup.exe.enc",
+  "sha256": "df89fb284c0a6f0e9cf956ac777cee9acdbc27e7c7e67b1fa47ae0afdb52100f",
+  "size_bytes": 52399794,
+  "message": "1.1.8 기준 안정화 롤백 (T2 로그인·암호화 업데이트 유지)"
 }
