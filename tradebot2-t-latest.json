@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.92",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.92/TradeBot2_T_1.4.92_setup.exe",
-  "sha256": "cb51245f2336610e4b456708ed43b87294d76b16c1b22ab4b97c8b14d493383b",
-  "size_bytes": 122918932,
-  "message": "채팅매크로 드라이버 설치문제 수정"
+  "version": "1.4.93",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.93/TradeBot2_T_1.4.93_setup.exe",
+  "sha256": "c2267b4aeea06700a7bc4723c8eef5c09f711e6699916332e657bd7c9fa8336e",
+  "size_bytes": 122920468,
+  "message": "HP 회복 아이템 자동 사용 및 버프 일감 균등 배정 개선"
 }
