@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.26",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.26/PartyBuff_T2_2.0.26_setup.exe.enc",
-  "sha256": "e3d77b268d40eef31b92416f3d9f1bb88f499f8718ae678d277593802f1fcb40",
-  "size_bytes": 52449682,
-  "message": "팀 이전 시 구버전 미완료 일감을 만료 처리하고 바로 이전"
+  "version": "2.0.28",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.28/PartyBuff_T2_2.0.28_setup.exe.enc",
+  "sha256": "215b39301d0c38ac4c94531764e372b531ab96d278be2546c814069b6876e70e",
+  "size_bytes": 52451721,
+  "message": "서버 통신량 줄이기, 교환 안정화(늦게 수락한 거래창·손님 처리 후 멈춤 수정)"
 }
