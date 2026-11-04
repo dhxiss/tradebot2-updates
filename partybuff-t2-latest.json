@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.25",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.25/PartyBuff_T2_2.0.25_setup.exe.enc",
-  "sha256": "dc0410cb56d2781ad0321d841da4ed3b48aed322ca4d90d178d71225c02f9a9c",
-  "size_bytes": 52456058,
-  "message": "리니지 11-03 패치 대응, 걸린 일감 정리 기능 추가"
+  "version": "2.0.26",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.26/PartyBuff_T2_2.0.26_setup.exe.enc",
+  "sha256": "e3d77b268d40eef31b92416f3d9f1bb88f499f8718ae678d277593802f1fcb40",
+  "size_bytes": 52449682,
+  "message": "팀 이전 시 구버전 미완료 일감을 만료 처리하고 바로 이전"
 }
