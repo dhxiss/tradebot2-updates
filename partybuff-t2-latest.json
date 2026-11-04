@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.1.11",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v1.1.11/PartyBuff_T2_1.1.11_setup.exe.enc",
-  "sha256": "df89fb284c0a6f0e9cf956ac777cee9acdbc27e7c7e67b1fa47ae0afdb52100f",
-  "size_bytes": 52399794,
-  "message": "1.1.8 기준 안정화 롤백 (T2 로그인·암호화 업데이트 유지)"
+  "version": "2.0.25",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.25/PartyBuff_T2_2.0.25_setup.exe.enc",
+  "sha256": "dc0410cb56d2781ad0321d841da4ed3b48aed322ca4d90d178d71225c02f9a9c",
+  "size_bytes": 52456058,
+  "message": "리니지 11-03 패치 대응, 걸린 일감 정리 기능 추가"
 }
