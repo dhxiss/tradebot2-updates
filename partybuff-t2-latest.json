@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.29",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.29/PartyBuff_T2_2.0.29_setup.exe.enc",
-  "sha256": "fe703c4dd0744efcfe54b715eb879f23543140e63ff9fd1d50722bf33884a929",
-  "size_bytes": 52460014,
-  "message": "강제 업데이트 기능 추가, 서버 통신량 줄이기"
+  "version": "2.0.30",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.30/PartyBuff_T2_2.0.30_setup.exe.enc",
+  "sha256": "45dec5797581d3150561ad3a8d698d685d7395176e8ea320e4efc8f74ee1f731",
+  "size_bytes": 52447903,
+  "message": "파티 통신을 이전 서버로 정리"
 }
