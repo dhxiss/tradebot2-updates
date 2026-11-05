@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.30",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.30/PartyBuff_T2_2.0.30_setup.exe.enc",
-  "sha256": "45dec5797581d3150561ad3a8d698d685d7395176e8ea320e4efc8f74ee1f731",
-  "size_bytes": 52447903,
-  "message": "파티 통신을 이전 서버로 정리"
+  "version": "2.0.31",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.31/PartyBuff_T2_2.0.31_setup.exe.enc",
+  "sha256": "5f0a40532de80e66f027c96b1949615ca69882b20deb565cdbc40c4e5d8802fb",
+  "size_bytes": 52462522,
+  "message": "거래 완료 고객에게 바로 재교환하지 않도록 수정"
 }
