@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.37",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.37/PartyBuff_T2_2.0.37_setup.exe.enc",
-  "sha256": "1c03c316e94307fe077a07bc81b949459cf88c8a7440415c49ddb45612c476ce",
-  "size_bytes": 52456338,
-  "message": "새 서버 전환 · 전체/파티 채팅 · 이용권 잔여 0회 일괄 삭제 · 헤이스트 역할 · 교환 중 MP 관리 개선"
+  "version": "2.0.39",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.39/PartyBuff_T2_2.0.39_setup.exe.enc",
+  "sha256": "a8d88dc3a918f71b136eb4586aa953e8311c0c55098f6d9c2db08401f0df317f",
+  "size_bytes": 52463918,
+  "message": "멘트 전송 중단(오류 3) 개선 · 걸린 일감 자동 정리"
 }
