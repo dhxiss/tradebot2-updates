@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.39",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.39/PartyBuff_T2_2.0.39_setup.exe.enc",
-  "sha256": "a8d88dc3a918f71b136eb4586aa953e8311c0c55098f6d9c2db08401f0df317f",
-  "size_bytes": 52463918,
-  "message": "멘트 전송 중단(오류 3) 개선 · 걸린 일감 자동 정리"
+  "version": "2.0.41",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.41/PartyBuff_T2_2.0.41_setup.exe.enc",
+  "sha256": "34f1d517e72a033554bb772a18ee2c7a89cfb07e13cced3a6a0b73ffaca886ee",
+  "size_bytes": 52461506,
+  "message": "전체·파티 채팅 멘트가 안 나가던 문제 수정 · 걸린 일감 자동 정리"
 }
