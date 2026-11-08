@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "version": "1.4.96",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/tb-v1.4.96/TradeBot2_T_1.4.96_setup.exe",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/v1.4.96/TradeBot2_T_1.4.96_setup.exe",
   "sha256": "61b3b9b04027f83795f98e50ba0165dd1c5ea09266b77b89922d0e435fe59ec6",
   "size_bytes": 122919956,
   "message": "같은 계정 PC끼리 판매 설정 공유"
