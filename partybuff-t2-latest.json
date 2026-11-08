@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.41",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.41/PartyBuff_T2_2.0.41_setup.exe.enc",
-  "sha256": "34f1d517e72a033554bb772a18ee2c7a89cfb07e13cced3a6a0b73ffaca886ee",
-  "size_bytes": 52461506,
-  "message": "전체·파티 채팅 멘트가 안 나가던 문제 수정 · 걸린 일감 자동 정리"
+  "version": "2.0.42",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.42/PartyBuff_T2_2.0.42_setup.exe.enc",
+  "sha256": "f0112b3e8baa956c8dfdd29e70b45f7353560f514698edc4012f52d081be5484",
+  "size_bytes": 52469435,
+  "message": "앞 손님 버프 중에도 교환 계속 받기 · 칼질하면 바로 돌아서 교환 · 결제 후 MP 부족 안내"
 }
