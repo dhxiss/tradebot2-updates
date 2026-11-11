@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.49",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.49/PartyBuff_T2_2.0.49_setup.exe.enc",
-  "sha256": "232ea54fe4bca4daa052b3cebfdfa8d646ac172c1157b9a8b2fbbee5b7e8b948",
-  "size_bytes": 52468057,
-  "message": "팀원 최소 MP 미달 시 교환 안 함 · 마나부족 안내"
+  "version": "2.0.51",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.51/PartyBuff_T2_2.0.51_setup.exe.enc",
+  "sha256": "2e476bd664e52d897cdeee5e496ad13c3437c976c2d5c2717177e135ac1ae823",
+  "size_bytes": 52471799,
+  "message": "교환 중에도 결제 버프 바로 시전 · 다른 파티 손님 뒤로 미루기"
 }
