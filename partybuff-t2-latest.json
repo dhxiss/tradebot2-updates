@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.46",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.46/PartyBuff_T2_2.0.46_setup.exe.enc",
-  "sha256": "633f3886f280ed3d6557abbf39c4dc508fa8e66ff878966e9ee0ee081e0c95a3",
-  "size_bytes": 52468111,
-  "message": "게임 업데이트 대응 · 칼질 손님 여럿 차례로 처리"
+  "version": "2.0.48",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.48/PartyBuff_T2_2.0.48_setup.exe.enc",
+  "sha256": "489981c6c4ff174d402e6c14b2c0277f293eca537568d5c0e528404711230f64",
+  "size_bytes": 52468585,
+  "message": "일권(기간 이용권) 추가 · 재교환 금지시간 · MP 부족 처리 개선"
 }
