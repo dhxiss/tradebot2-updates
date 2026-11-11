@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.48",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.48/PartyBuff_T2_2.0.48_setup.exe.enc",
-  "sha256": "489981c6c4ff174d402e6c14b2c0277f293eca537568d5c0e528404711230f64",
-  "size_bytes": 52468585,
-  "message": "일권(기간 이용권) 추가 · 재교환 금지시간 · MP 부족 처리 개선"
+  "version": "2.0.49",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.49/PartyBuff_T2_2.0.49_setup.exe.enc",
+  "sha256": "232ea54fe4bca4daa052b3cebfdfa8d646ac172c1157b9a8b2fbbee5b7e8b948",
+  "size_bytes": 52468057,
+  "message": "팀원 최소 MP 미달 시 교환 안 함 · 마나부족 안내"
 }
