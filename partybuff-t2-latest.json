@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.43",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.43/PartyBuff_T2_2.0.43_setup.exe.enc",
-  "sha256": "86e22847a7758b2251a5353b31624541007130b75bee045aab28667dc8aa9c52",
-  "size_bytes": 52467895,
-  "message": "연달아 결제한 손님도 순서대로 버프 · MP 회복 기다리는 손님 유지"
+  "version": "2.0.46",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.46/PartyBuff_T2_2.0.46_setup.exe.enc",
+  "sha256": "633f3886f280ed3d6557abbf39c4dc508fa8e66ff878966e9ee0ee081e0c95a3",
+  "size_bytes": 52468111,
+  "message": "게임 업데이트 대응 · 칼질 손님 여럿 차례로 처리"
 }
