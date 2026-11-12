@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.51",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.51/PartyBuff_T2_2.0.51_setup.exe.enc",
-  "sha256": "2e476bd664e52d897cdeee5e496ad13c3437c976c2d5c2717177e135ac1ae823",
-  "size_bytes": 52471799,
-  "message": "교환 중에도 결제 버프 바로 시전 · 다른 파티 손님 뒤로 미루기"
+  "version": "2.0.52",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.52/PartyBuff_T2_2.0.52_setup.exe.enc",
+  "sha256": "ec527d31882957f0bb6eba0fe6e1236913416608ca6174ad114ca859b2ca9e7a",
+  "size_bytes": 52465593,
+  "message": "응답 없는 손님을 계속 재초대해 뒤 손님이 밀리던 문제 수정"
 }
