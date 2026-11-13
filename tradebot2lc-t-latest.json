@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.4.107",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/tradebot2lc-v1.4.107/TradeBot2LC_T_1.4.107_setup.exe",
-  "sha256": "9e6fdb13d6a8bf4411eff8a1bd8ecabfd19e4ffedf8c356b61f897a17ec92c5c",
-  "size_bytes": 122947606,
+  "version": "1.4.108",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/tradebot2lc-v1.4.108/TradeBot2LC_T_1.4.108_setup.exe",
+  "sha256": "e92434b53c8faab520c4c0901faf8f28e7625b6efbe474aad79dede6ef48e7e2",
+  "size_bytes": 122952214,
   "message": ""
 }
