@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.52",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.52/PartyBuff_T2_2.0.52_setup.exe.enc",
-  "sha256": "ec527d31882957f0bb6eba0fe6e1236913416608ca6174ad114ca859b2ca9e7a",
-  "size_bytes": 52465593,
-  "message": "응답 없는 손님을 계속 재초대해 뒤 손님이 밀리던 문제 수정"
+  "version": "2.0.53",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.53/PartyBuff_T2_2.0.53_setup.exe.enc",
+  "sha256": "9a71dcf7cd859c593a214f4a9c9cbfaa7915142da2ea27e7bb5d0a06e7f1a9bf",
+  "size_bytes": 52549833,
+  "message": "리니지 11월 17일 패치 대응(채팅·이동·자동부활 복구)"
 }
