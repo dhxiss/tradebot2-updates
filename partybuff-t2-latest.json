@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.53",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.53/PartyBuff_T2_2.0.53_setup.exe.enc",
-  "sha256": "9a71dcf7cd859c593a214f4a9c9cbfaa7915142da2ea27e7bb5d0a06e7f1a9bf",
-  "size_bytes": 52549833,
-  "message": "리니지 11월 17일 패치 대응(채팅·이동·자동부활 복구)"
+  "version": "2.0.54",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.54/PartyBuff_T2_2.0.54_setup.exe.enc",
+  "sha256": "7be5ad88c34ced6de7905b50948112381b781dab5b377c3be2c6e478b0dabb13",
+  "size_bytes": 52547481,
+  "message": "자동부활이 두 번째부터 안 되던 문제 수정(리니지 11월 17일 패치 대응)"
 }
