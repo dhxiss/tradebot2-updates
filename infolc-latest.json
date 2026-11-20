@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.1.7",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/infolc-v1.1.7/infoLC_setup_1.1.7.exe",
-  "sha256": "aee1541f36162b053881e13f03dc785e3cab128ac07d0b5bc3281b042df17b9a",
-  "size_bytes": 194096903,
-  "message": ""
+  "version": "1.1.8",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/infolc-v1.1.8/infoLC_setup_1.1.8.exe",
+  "sha256": "475731570280c76dd289d50e36b042a3aa339ba4228eebbe48fbafcea2823bd3",
+  "size_bytes": 194141976,
+  "message": "창 관측 실패 후 중지·종료 정리, 사냥터 이동 및 귀환 재출발, 클라이언트 창 명령 발급과 오류 진단을 개선했습니다."
 }
