@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.1.10",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/infolc-v1.1.10/infoLC_setup_1.1.10.exe",
-  "sha256": "30f26b7553117153836924076adbefeeee68254fbf6b46ec547410a3a457eeac",
-  "size_bytes": 194103138,
+  "version": "2.0.1",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/infolc-v2.0.1/infoLC_setup_2.0.1.exe",
+  "sha256": "21f9e70fb3cc091a368b3c9bfc12d47cfc936994a74bd9e5c30951d8f9e88d10",
+  "size_bytes": 61532773,
   "message": ""
 }
