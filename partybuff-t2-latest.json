@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "2.0.54",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v2.0.54/PartyBuff_T2_2.0.54_setup.exe.enc",
-  "sha256": "7be5ad88c34ced6de7905b50948112381b781dab5b377c3be2c6e478b0dabb13",
-  "size_bytes": 52547481,
-  "message": "자동부활이 두 번째부터 안 되던 문제 수정(리니지 11월 17일 패치 대응)"
+  "version": "3.0.3",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v3.0.3/PartyBuff_T2_3.0.3_setup.exe.enc",
+  "sha256": "1f140b6b62d803437ccbc6b4bccf7c1ad5737e21314fd15db2ad0bed1f48e866",
+  "size_bytes": 52558677,
+  "message": "이용권 수기 등록, 이용권 잔여 안내 귓말 선택, 초대를 늦게 수락한 손님 정리 추가"
 }
