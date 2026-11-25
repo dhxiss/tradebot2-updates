@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "3.0.3",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v3.0.3/PartyBuff_T2_3.0.3_setup.exe.enc",
-  "sha256": "1f140b6b62d803437ccbc6b4bccf7c1ad5737e21314fd15db2ad0bed1f48e866",
-  "size_bytes": 52558677,
-  "message": "이용권 수기 등록, 이용권 잔여 안내 귓말 선택, 초대를 늦게 수락한 손님 정리 추가"
+  "version": "3.0.4",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v3.0.4/PartyBuff_T2_3.0.4_setup.exe.enc",
+  "sha256": "6a03e833118d4cf7a71b295057be0d140ba49d23d043dfc05bf94aef6c353e3f",
+  "size_bytes": 52564229,
+  "message": "리니지 11월 24일 패치 대응 — 채팅·이동·부활 다시 연결"
 }
