@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "3.0.4",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v3.0.4/PartyBuff_T2_3.0.4_setup.exe.enc",
-  "sha256": "6a03e833118d4cf7a71b295057be0d140ba49d23d043dfc05bf94aef6c353e3f",
-  "size_bytes": 52564229,
-  "message": "리니지 11월 24일 패치 대응 — 채팅·이동·부활 다시 연결"
+  "version": "3.0.5",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v3.0.5/PartyBuff_T2_3.0.5_setup.exe.enc",
+  "sha256": "dc65d36414b9e0b18033bc8b416fa74665b3a7fea8912f814216f112844f3cab",
+  "size_bytes": 52562856,
+  "message": "요정 버프가 늦게 나가거나 빠지던 문제 수정"
 }
