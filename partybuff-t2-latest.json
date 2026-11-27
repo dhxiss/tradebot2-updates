@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "3.0.5",
-  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v3.0.5/PartyBuff_T2_3.0.5_setup.exe.enc",
-  "sha256": "dc65d36414b9e0b18033bc8b416fa74665b3a7fea8912f814216f112844f3cab",
-  "size_bytes": 52562856,
-  "message": "요정 버프가 늦게 나가거나 빠지던 문제 수정"
+  "version": "3.0.6",
+  "installer_url": "https://github.com/dhxiss/tradebot2-updates/releases/download/partybuff-t2-v3.0.6/PartyBuff_T2_3.0.6_setup.exe.enc",
+  "sha256": "d1ad566a32a0e76ea016cba570d2356a95bd7a82ecf49e78466affba76874644",
+  "size_bytes": 52564073,
+  "message": "PC 시계가 맞지 않을 때 팀 연결이 끊기던 문제 수정"
 }
